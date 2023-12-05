@@ -10,6 +10,10 @@
 <body>
     <h1>hello world</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga, quasi!</p>
+    <ul>
+        <li>test</li>
+        <li>test 2</li>
+    </ul>
 </body>
 
 </html>
